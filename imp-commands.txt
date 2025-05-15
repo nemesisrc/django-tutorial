@@ -1,0 +1,14 @@
+1. pip install django
+
+2. django-admin startproject <project-name-here>
+
+3. (i) go to project directory ---> python manage.py runserver
+   (ii) to change port of project ---> python manage.py runserver <port-name-here> 
+
+4. to stop the django server, press ctrl+c in terminal
+
+5. multiple apps can be created inside a single django project(server)
+
+6. to create an app inside our django project, run python manage.py startapp <app-name-here> inside django project directory
+
+7.
